@@ -19,6 +19,13 @@
 - Form
 - Section
 
+## 截屏
+![0000001](screenshot/0000001.gif)  
+
+![0000002](screenshot/0000002.gif)  
+
+![0000003](screenshot/0000003.gif)
+
 ## 存在疑问
 
 - TextField在模拟器上卡死，没有真机测试
